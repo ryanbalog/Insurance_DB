@@ -1,0 +1,24 @@
+﻿Final Project Proposal
+
+To begin the final project for this course, we are asking each of you or your groups to present (in writing) a proposal for your project.
+While not a major component of the project grade-wise, the proposal is critically important in order to create a rough framework of your
+thoughts about what you might want to do.
+For your proposal, we would like to see you consider and discuss the following:
+
+What you would like your database to be about (what you want to store in your database)?
+My database will be a medical insurance database.
+
+How many tables do you think this database might contain
+My database will contain 5-8 relations.
+
+How much data are you planning to load into this database?
+I plan to insert at least 10 records per relation.
+
+Why is using a database to handle this data useful?
+Relational databases are important for insurance companies due to their ACID properties that help support a stable structure and consistency.
+
+How would people access this data once your project is complete?
+Through a web application. I plan on using this project as a job portfolio piece so allowing outside access will be helpful for showcasing.
+
+How do you plan to get access to all of your data?
+I plan on coming up with my data myself and through some research for medical procedures that will be stored in the database.
