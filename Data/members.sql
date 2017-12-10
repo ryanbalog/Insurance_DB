@@ -1,0 +1,20 @@
+Insert into Account_Members Values
+  (1, 1, 'Ryan', 'Balog', '1994-12-01', 789456123, '234 Bunk Street', 'Pittsburgh', 'PA'),
+  (1, 2, 'Blitzen', 'Balog', '2007-10-04', 789456124, '234 Bunk Street', 'Pittsburgh', 'PA'),
+  (2, 1, 'Angus', 'Long', '1985-08-15', 989456123, '7 Oak Lane', 'New York', 'NY'),
+  (3, 1, 'George', 'Bush', '1946-07-06', 185496123, '134 President Rd.', 'Dallas', 'TX'),
+  (3, 2, 'Laura', 'Bush', '1946-11-4', 345656123, '134 President Rd.', 'Dallas', 'TX'),
+  (4, 1, 'Reid', 'McKinney', '1995-06-23', 789456789, '4596 Poker Street APT. A', 'Trenton', 'NJ'),
+  (4, 2, 'Julie', 'McKinney', '1995-01-26', 235456789, '4596 Poker Street APT. A', 'Trenton', 'NJ'),
+  (4, 3, 'Nick', 'McKinney', '2003-03-29', 889456889, '4596 Poker Street APT. A', 'Trenton', 'NJ'),
+  (5, 1, 'Sasha', 'Brown', '1976-08-05', 456456789, '45 Apple Circle', 'Philadelphia', 'PA'),
+  (6, 1, 'Adonis', 'Amolthea', '1981-02-14', 569456789, '96 Hill Street APT. 456', 'Chicago', 'IL'),
+  (6, 2, 'Amanda', 'Amolthea', '1983-05-12', 566356789, '96 Hill Street APT. 456', 'Chicago', 'IL'),
+  (7, 1, 'Momi', 'Keoni', '1964-03-19', 569452389, '321 N. Allen Street', 'Denver', 'CO'),
+  (8, 1, 'Moana', 'Anderson', '1989-04-01', 469456769, '85256 Coconut Rd.', 'Denver', 'CO'),
+  (8, 2, 'Jeff', 'Anderson', '2006-04-21', 489456769, '85256 Coconut Rd.', 'Denver', 'CO'),
+  (8, 3, 'Poco', 'Anderson', '2009-06-07', 419456799, '85256 Coconut Rd.', 'Denver', 'CO'),
+  (9, 1, 'Jeff', 'Fisher', '1921-10-01', 156456769, '567 Ronaldo Square', 'Seattle', 'WA'),
+  (9, 2, 'Carlene', 'Fisher', '1926-12-12', 156456969, '567 Ronaldo Square', 'Seattle', 'WA'),
+  (10, 1, 'Wilhelm', 'Reinhardt', '1956-12-25', 526459632, '23 Crusader Ave.', 'Las Vegas', 'NV')
+;
