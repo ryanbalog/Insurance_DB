@@ -1,0 +1,8 @@
+Providers: Doctors that have rendered service to a member
+Policies: Coverage plans available for purchase
+Policy Accounts: The parent entity that is linked to an insurance plan
+Account Members: ID dependent weak entity for the Policy Account. These are people that are under the policy account.
+Service: Information involving a policy holder or dependent's visit to a provider that is being billed to the insurance
+Service Items: List of diagnostic and procedure codes from each service instance
+ICD-10: Standardized diagnosis codes that are alphanumeric
+CPT: Standardized procedure codes created by AMA. You must pay to have access to these codes, so I made them up for this project.  
